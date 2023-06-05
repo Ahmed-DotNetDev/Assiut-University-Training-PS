@@ -1,7 +1,7 @@
 # Assiut-University-Training-PS
 
 <br>
-<p align="center">Assiut-University-Training-PS With CPP</p>
+<strong><p>Assiut-University-Training-PS With CPP</p></strong>
 
 <table align="center">
   <tr>
