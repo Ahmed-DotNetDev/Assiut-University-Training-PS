@@ -1,7 +1,7 @@
 # Assiut-University-Training-PS
 
 <br>
-<strong><p>Assiut-University-Training-PS With CPP</p></strong> 👨🏻‍💻⚙🔥
+<strong>Assiut-University-Training-PS With CPP 👨🏻‍💻⚙🔥</strong> 
 
 <table align="center">
   <tr>
