@@ -1,9 +1,9 @@
 # Assiut-University-Training-PS
 
 <br>
-<strong>Assiut-University-Training-PS With CPP 👨🏻‍💻⚙🔥</strong> 
+<strong>Assiut-University-Training-PS With CPP 👨🏻‍💻⚙🔥</strong> <br>
 <br>
-<table align="center">
+<table align="left">
   <tr>
     <th>Problem Name</th>
     <th>Link</th>
@@ -11,12 +11,12 @@
   </tr>
   <tr>
     <td>A. Say Hello With C++</td>
-    <td>https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/A.%20Say%20Hello%20With%20C%2B%2B</td>
-    <td>https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/A.%20Say%20Hello%20With%20C%2B%2B">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A">Problem Link</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>B. Basic Data Types</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/B.%20Basic%20Data%20Types">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B">Problem Link</a></td>
   </tr>
 </table>
