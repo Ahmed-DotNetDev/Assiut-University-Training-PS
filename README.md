@@ -19,4 +19,9 @@
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/B.%20Basic%20Data%20Types">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B">Problem Link</a></td>
   </tr>
+  <tr>
+    <td>C. Simple Calculator</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/C.%20Simple%20Calculator">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C">Problem Link</a></td>
+  </tr>
 </table>
