@@ -39,4 +39,9 @@
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/F.%20Digits%20Summation">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F">Problem Link</a></td>
   </tr>
+   <tr>
+    <td>G. Summation from 1 to N</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/G.%20Summation%20from%201%20to%20N">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G">Problem Link</a></td>
+  </tr>
 </table>
