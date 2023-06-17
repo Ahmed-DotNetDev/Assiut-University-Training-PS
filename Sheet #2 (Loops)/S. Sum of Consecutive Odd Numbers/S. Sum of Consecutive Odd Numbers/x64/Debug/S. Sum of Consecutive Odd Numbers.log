@@ -1,0 +1,7 @@
+﻿  S. Sum of Consecutive Odd Numbers.cpp
+D:\Assiut-University-Training-PS\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\S. Sum of Consecutive Odd Numbers\S. Sum of Consecutive Odd Numbers.cpp(16,20): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  S. Sum of Consecutive Odd Numbers.vcxproj -> D:\Assiut-University-Training-PS\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\x64\Debug\S. Sum of Consecutive Odd Numbers.exe
