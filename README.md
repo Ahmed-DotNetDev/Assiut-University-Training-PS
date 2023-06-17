@@ -34,4 +34,9 @@
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/E.%20Area%20of%20a%20Circle">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E">Problem Link</a></td>
   </tr>
+   <tr>
+    <td>F. Digits Summation</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/F.%20Digits%20Summation">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F">Problem Link</a></td>
+  </tr>
 </table>
