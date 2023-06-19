@@ -44,4 +44,9 @@
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/G.%20Summation%20from%201%20to%20N">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G">Problem Link</a></td>
   </tr>
+   <tr>
+    <td>H. Two numbers</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/H.%20Two%20numbers">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H">Problem Link</a></td>
+  </tr>
 </table>
