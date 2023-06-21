@@ -6,8 +6,8 @@
 <table align="left">
   <tr>
     <th>Problem Name</th>
-    <th>Link</th>
-    <th>Website Link</th>
+    <th>Repo</th>
+    <th>Codeforces</th>
   </tr>
   <tr>
     <td>A. Say Hello With C++</td>
@@ -53,5 +53,10 @@
     <td>J. Multiples</td>
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/J.%20Multiples">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I">Problem Link</a></td>
+  </tr>
+   <tr>
+    <td>K. Max and Min</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/K.%20Max%20and%20Min">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K">Problem Link</a></td>
   </tr>
 </table>
