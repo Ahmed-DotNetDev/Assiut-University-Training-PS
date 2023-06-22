@@ -50,6 +50,11 @@
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H">Problem Link</a></td>
   </tr>
   <tr>
+    <td>I. Welcome for you with Conditions</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/I.%20Welcome%20for%20you%20with%20Conditions">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I">Problem Link</a></td>
+  </tr>
+  <tr>
     <td>J. Multiples</td>
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/J.%20Multiples">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I">Problem Link</a></td>
@@ -63,5 +68,10 @@
     <td>L. The Brothers</td>
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/L.%20The%20Brothers">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L">Problem Link</a></td>
+  </tr>
+  <tr>
+    <td>N. Char</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/N.%20Char">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N">Problem Link</a></td>
   </tr>
 </table>
