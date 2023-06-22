@@ -6,8 +6,8 @@
 <table align="left">
   <tr>
     <th>Problem Name</th>
-    <th>Link</th>
-    <th>Website Link</th>
+    <th>Repo</th>
+    <th>Codeforces</th>
   </tr>
   <tr>
     <td>A. Say Hello With C++</td>
@@ -38,5 +38,30 @@
     <td>F. Digits Summation</td>
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/F.%20Digits%20Summation">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F">Problem Link</a></td>
+  </tr>
+   <tr>
+    <td>G. Summation from 1 to N</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/G.%20Summation%20from%201%20to%20N">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G">Problem Link</a></td>
+  </tr>
+   <tr>
+    <td>H. Two numbers</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/H.%20Two%20numbers">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H">Problem Link</a></td>
+  </tr>
+  <tr>
+    <td>J. Multiples</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/J.%20Multiples">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I">Problem Link</a></td>
+  </tr>
+   <tr>
+    <td>K. Max and Min</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/K.%20Max%20and%20Min">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K">Problem Link</a></td>
+  </tr>
+   <tr>
+    <td>L. The Brothers</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/L.%20The%20Brothers">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L">Problem Link</a></td>
   </tr>
 </table>
