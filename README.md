@@ -59,4 +59,9 @@
     <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/K.%20Max%20and%20Min">Problem Repo</a></td>
     <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K">Problem Link</a></td>
   </tr>
+   <tr>
+    <td>L. The Brothers</td>
+    <td><a href="https://github.com/Ahmed-DotNetDev/Assiut-University-Training-PS/tree/master/Sheet_1/L.%20The%20Brothers">Problem Repo</a></td>
+    <td><a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L">Problem Link</a></td>
+  </tr>
 </table>
